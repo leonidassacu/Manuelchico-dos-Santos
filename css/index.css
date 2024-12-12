@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(../img/1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header{
+    background-color: seagreen;
+    height: 70px;
+}
+.vb h1{
+    margin-left: 10%;
+    color: white;
+}
+.cen{
+    display: flex;
+}
+.lima ul{
+    display: flex;
+    margin-left: 180%;
+}
+.lima li{
+    padding: 5px;
+    margin-top: 18px;
+}
+.lima li{
+    list-style: none;
+}
+.lima a{
+    color: white;
+}
+.lima a:hover{
+    background-color: turquoise;
+    padding: 4px;
+}
+table, th, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    color: white;
+}
+th{
+    background-color: black;
+}
+table{
+    margin-left: 20%;
+    margin-top: 6%;
+}
+.mel{
+    background-color: slategray;
+}
+
+.lista1{
+    margin-left: 20%;
+    margin-top: 10%;
+}
+h2{
+    color: white;
+}
+.lista1 ol{
+    margin-top: 15px;
+}
+.lista1 li{
+    margin-top: 4px;
+    color: white;
+}
+
+.lista2{
+    margin-left: 20%;
+    margin-top: 10%;
+}
+.lista2 ul{
+    margin-top: 15px;
+}
+
+.lista2 li{
+    margin-top: 4px;
+    color: white;
+}
+
+.forma{
+    margin-left: 20%;
+    margin-top: 10%;
+}
+input{
+    padding: 6px;
+    margin-top: 10px;
+}
+button{
+    padding: 4px;
+    margin-top: 8px;
+}
+
+footer{
+    background-color: seagreen;
+    margin-top: 10px;
+    height: 80px;
+}
